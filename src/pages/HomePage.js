@@ -80,15 +80,7 @@ const HomePage = () => {
 
       {/* Info Section */}
       <div className="container section3 d-flex flex-column flex-md-row mt-5 pt-5 justify-content-center align-items-center gap-4">
-        <div className="image-side col-12 col-md-6 col-lg-5">
-          <img
-            className="img-fluid rounded"
-            src="https://i.pinimg.com/736x/dd/60/b0/dd60b0ed3169b8aa469da1ee784bc088.jpg"
-            alt="Garden flowers"
-          />
-        </div>
-
-        <div className="text-side col-12 col-md-6">
+        <div className="text-side col-12 col-md-8">
           <h1 className="feature-title">Make Your Garden Good Nutrition</h1>
           <ul className="mt-3">
             <li className="mb-2">
