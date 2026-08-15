@@ -96,19 +96,7 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* CTA Section */}
-      <div className="section4 mx-0 mx-lg-5 d-flex flex-column flex-md-row justify-content-center align-items-center container my-5 py-4">
-        <div className="text-side w-100 text-center text-md-start">
-          <h1 className="feature-title">Come With Us & Grow Your Plant</h1>
-          <p className="w-100 w-lg-75">
-            We are a team of passionate people whose goal is to improve
-            everyone's life through disruptive products.
-          </p>
-          <button className="btn btn-success px-5 py-2 mt-3">
-            Discover More <FontAwesomeIcon icon={faArrowRight} className="ms-2" />
-          </button>
-        </div>
-      </div>
+  
     </div>
   );
 };
